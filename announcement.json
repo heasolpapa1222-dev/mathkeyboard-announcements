@@ -1,14 +1,44 @@
-{
-  "enabled": false,
-  "id": "discount_2026_11",
-  "title": "Subscription 50% OFF!",
-  "titleKo": "구독 50% 할인!",
-  "message": "Limited time offer! Get 50% off on monthly and yearly subscriptions.\n\nMonthly: $4.99 → $2.49\nYearly: $49.9 → $24.95",
-  "messageKo": "11월 한정 이벤트!\n월간/연간 구독 50% 할인 중입니다.\n\n월간: $4.99 → $2.49\n연간: $49.9 → $24.95",
-  "actionText": "View Discount",
-  "actionTextKo": "할인 보기",
-  "actionType": "subscription",
-  "actionUrl": "",
-  "expiry": "2026-11-30",
-  "minVersion": 112
-}
+[
+  {
+    "enabled": false,
+    "id": "discount_2026_11",
+    "title": "Subscription 50% OFF!",
+    "titleKo": "구독 50% 할인!",
+    "message": "Limited time offer! Get 50% off on monthly and yearly subscriptions.\n\nMonthly: $4.99 → $2.49\nYearly: $49.9 → $24.95",
+    "messageKo": "11월 한정 이벤트!\n월간/연간 구독 50% 할인 중입니다.\n\n월간: $4.99 → $2.49\n연간: $49.9 → $24.95",
+    "actionText": "View Discount",
+    "actionTextKo": "할인 보기",
+    "actionType": "subscription",
+    "actionUrl": "",
+    "expiry": "2026-11-30",
+    "minVersion": 112
+  },
+  {
+    "enabled": false,
+    "id": "new_feature_handwriting",
+    "title": "New! Handwriting AI Recognition",
+    "titleKo": "신기능! 손글씨 AI 수식 인식",
+    "message": "Draw math symbols and AI converts them to LaTeX commands automatically!",
+    "messageKo": "수학 기호를 손으로 그리면 AI가 LaTeX 명령어로 자동 변환합니다!",
+    "actionText": "Try Now",
+    "actionTextKo": "사용해보기",
+    "actionType": "info",
+    "actionUrl": "",
+    "expiry": "2027-12-31",
+    "minVersion": 112
+  },
+  {
+    "enabled": false,
+    "id": "update_v1_1",
+    "title": "New Version Available!",
+    "titleKo": "새 버전이 출시되었습니다!",
+    "message": "Update now for new features and improvements.",
+    "messageKo": "새로운 기능과 개선 사항이 포함되어 있습니다. 지금 업데이트하세요!",
+    "actionText": "Update",
+    "actionTextKo": "업데이트",
+    "actionType": "update",
+    "actionUrl": "",
+    "expiry": "2027-12-31",
+    "minVersion": 0
+  }
+]
