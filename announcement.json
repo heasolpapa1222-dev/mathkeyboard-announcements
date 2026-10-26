@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "id": "discount_2026_11",
+  "title": "Subscription 50% OFF!",
+  "titleKo": "구독 50% 할인!",
+  "message": "Limited time offer! Get 50% off on monthly and yearly subscriptions.\n\nMonthly: $4.99 → $2.49\nYearly: $49.9 → $24.95",
+  "messageKo": "11월 한정 이벤트!\n월간/연간 구독 50% 할인 중입니다.\n\n월간: $4.99 → $2.49\n연간: $49.9 → $24.95",
+  "actionText": "View Discount",
+  "actionTextKo": "할인 보기",
+  "actionType": "subscription",
+  "actionUrl": "",
+  "expiry": "2026-11-30",
+  "minVersion": 112
+}
