@@ -14,7 +14,7 @@
     "minVersion": 112
   },
   {
-    "enabled": false,
+    "enabled": true,
     "id": "new_features_v1_1",
     "title": "New Features Added!",
     "titleKo": "새로운 기능이 추가되었습니다!",
