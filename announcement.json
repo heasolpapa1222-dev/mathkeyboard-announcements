@@ -11,7 +11,7 @@
     "actionType": "subscription",
     "actionUrl": "",
     "expiry": "2026-11-30",
-    "minVersion": 112
+    "minVersion": 0
   },
   {
     "enabled": true,
